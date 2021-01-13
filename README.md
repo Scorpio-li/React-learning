@@ -24,6 +24,12 @@ React的学习总结及实例
 
 7、[Axios取消请求](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/axios.md)
 
+8、[JSX注意事项](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/jsx.md)
+
+9、[组件的创建](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/component.md)
+
+10、[状态和属性](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/stateprop.md)
+
 ## React-examples
 
 1、 [初始化项目react-demo](https://github.com/Scorpio-li/react-learning/tree/main/examples/react-demo)

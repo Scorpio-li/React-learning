@@ -1,3 +1,10 @@
+<!--
+ * @Author: Li Zhiliang
+ * @Date: 2020-10-28 11:46:38
+ * @LastEditors: Li Zhiliang
+ * @LastEditTime: 2021-01-12 10:17:59
+ * @FilePath: /React-learning/examples/react-demo/README.md
+-->
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +75,27 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `yarn build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## 项目创建
+
+1. 全局安装脚手架
+
+```shell
+npm install -g create-react-app // window 平台
+sudo npm install -g create-react-app // mac/linux 平台
+```
+
+2. 使用脚手架新建项目
+
+```shell
+npx create-react-app my-app
+```
+
+3. 启动项目
+
+```shell
+cd my-app
+npm start
+```
+
