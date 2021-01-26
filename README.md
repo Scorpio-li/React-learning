@@ -10,6 +10,8 @@ React的学习总结及实例
 
 ## React 学习相关(Knowledge)
 
+0、[React核心原理](https://github.com/Scorpio-li/react-learning/tree/main/knowledge/core-principles)
+
 1、[项目中的依赖](https://github.com/Scorpio-li/react-learning/tree/main/knowledge/dependent.md)
 
 2、[环境配置](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/environmentConfig.md)
