@@ -1,0 +1,2 @@
+// 创建helper.scss文件，用于存储变量、函数等共用内容。
+// 在helper.scss中写入：$red:#F00;,那么在使用@import "helper"引用了helper.scss的地方，就都可以使用$red代表#F00。

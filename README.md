@@ -35,3 +35,5 @@ React的学习总结及实例
 ## React-examples
 
 1、 [初始化项目react-demo](https://github.com/Scorpio-li/react-learning/tree/main/examples/react-demo)
+
+2、 [从零开始搭建一个React项目](https://github.com/Scorpio-li/react-learning/tree/main/examples/react-typescript)
