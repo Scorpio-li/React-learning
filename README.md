@@ -32,6 +32,8 @@ React的学习总结及实例
 
 10、[状态和属性](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/stateprop.md)
 
+11、[React详解](https://github.com/Scorpio-li/react-learning/tree/mian/knowledge/explainDetail.md)
+
 ## React-examples
 
 1、 [初始化项目react-demo](https://github.com/Scorpio-li/react-learning/tree/main/examples/react-demo)
